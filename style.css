@@ -1,0 +1,33 @@
+body{
+    font-family: 'Rubik Distressed', cursive;
+    background-color: rgb(255, 155, 237);
+}
+.header_div{
+    background-color: rgb(160, 242, 255);
+    color: rgb(235, 0, 192);
+}
+.header_div p
+{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+}
+.main_div button
+{
+    margin-top: 30px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 8, 255);
+}
+.copyrightfooter
+{
+    position: fixed;
+    bottom:0;
+    width: 100%;
+    background-color: rgb(125, 0, 0);
+    color: rgb(255, 212, 212);
+    text-align: center;
+    line-height: 30px;
+    letter-spacing: 2.5px;
+}
